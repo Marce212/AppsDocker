@@ -1,0 +1,11 @@
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.deps.json
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.runtimeconfig.json
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.runtimeconfig.dev.json
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.dll
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.pdb
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.csprojResolveAssemblyReference.cache
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.csproj.CoreCompileInputs.cache
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.AssemblyInfoInputs.cache
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.AssemblyInfo.cs
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.dll
+c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.pdb

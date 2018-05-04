@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  testdocker:
+    build:
+      context: c:\users\marcelo.azari\documents\visual studio 2017\Projects\TestDocker
+      dockerfile: TestDocker\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: testdocker
+    ports:
+    - 80/tcp
+version: '3.0'
